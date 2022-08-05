@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.comges.puntoventa",
+    "sha256_cert_fingerprints":
+    ["EF:E0:CB:55:EA:3B:C5:25:D1:41:F5:E2:6C:F5:A0:1C:22:96:D7:60:0F:74:DC:02:01:5B:F7:58:C4:D0:11:FC"]
+  }
+}]
